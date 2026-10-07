@@ -10,8 +10,7 @@ int main(void)
 
         fahrenheit = celsius[i] * 9.0 / 5.0 - 32.0;
 
-        printf("%.1f C = %.2f F
-", celsius[i], fahrenheit);
+        printf("%.1f C = %.2f F", celsius[i], fahrenheit);
     }
 
     return 0;

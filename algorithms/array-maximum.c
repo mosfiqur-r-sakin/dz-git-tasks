@@ -12,8 +12,7 @@ int main(void)
         }
     }
 
-    printf("Maximum: %d
-", maximum);
+    printf("Maximum: %d", maximum);
 
     return 0;
 }

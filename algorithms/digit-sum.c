@@ -11,8 +11,7 @@ int main(void)
         number = number / 100;
     }
 
-    printf("Digit sum: %d
-", digit_sum);
+    printf("Digit sum: %d", digit_sum);
 
     return 0;
 }
